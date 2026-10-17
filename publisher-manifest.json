@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "eb68faf5362b21b4f03907de",
+  "owner": "bjaxeu",
+  "repo": "page-0db24faac34d579d799ceb01",
+  "title": "Recursion",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0db24faac34d579d799ceb01",
+      "a": "Recursion",
+      "b": "",
+      "entity": "Recursion",
+      "brand": "Recursion",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6cd8e6598c27e1a5dfda24f87de4f98f96088bc76407a1ca0a286880a026596d",
+      "content": {
+        "keyword1": "Recursion",
+        "keyword2": "",
+        "primary_entity": "Recursion",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Recursion 提供工业级网络中继与协议分发服务。精简务实的配置清单、透明的阶梯定价及高可用节点池。",
+          "AI_DESCRIPTION": "Recursion 提供工业级网络中继与协议分发服务。精简务实的配置清单、透明的阶梯定价及高可用节点池。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #ffffff;--text: #111111;--accent: #ff5500;--accent-light: #fff0eb;--border: #cccccc;--card-bg: #fafafa;--font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6}\na {color: inherit;text-decoration: none}\nul {list-style: none}\n.container {max-width: 1200px;margin: 0 auto;padding: 0 2rem}\n.hero-band {background-color: var(--text);color: var(--bg);padding: 6rem 0;border-bottom: 8px solid var(--accent)}\n.hero-band h1 {font-size: clamp(3rem, 6vw, 5rem);font-weight: 900;letter-spacing: -0.05em;margin-bottom: 1.5rem;font-family: var(--font-mono)}\n.hero-band p {font-size: 1.25rem;max-width: 600px;opacity: 0.9;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;font-family: var(--font-mono);font-size: 0.9rem}\n.hero-links a {background-color: var(--accent);color: var(--bg);padding: 0.75rem 1.5rem;font-weight: bold}\n.hero-links a.outline {background: transparent;border: 2px solid var(--bg)}\nsection {padding: 5rem 0;border-bottom: 1px solid var(--border)}\nh2 {font-size: 2rem;font-weight: 800;margin-bottom: 3rem;letter-spacing: -0.03em;font-family: var(--font-mono)}\n.features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 2rem}\n.ticket-card {border: 2px dashed var(--border);background: var(--card-bg);padding: 2.5rem;position: relative}\n.ticket-card h3 {font-size: 1.25rem;margin-bottom: 1rem;font-family: var(--font-mono);display: flex;justify-content: space-between;align-items: center}\n.ticket-card h3 span {color: var(--accent);font-size: 0.85rem}\n.ticket-card p {font-size: 0.95rem;color: #444}\n.table-wrapper {overflow-x: auto}\ntable.plans-table {width: 100%;border-collapse: collapse;text-align: left;font-family: var(--font-mono)}\ntable.plans-table th, table.plans-table td {padding: 1.25rem;border: 1px solid var(--border)}\ntable.plans-table th {background-color: var(--card-bg);font-weight: 700}\ntable.plans-table td.highlight {background-color: var(--accent-light);border-color: var(--accent)}\n.action-btn {display: inline-block;background: var(--text);color: var(--bg);padding: 0.5rem 1rem;font-size: 0.85rem;font-weight: bold;text-align: center}\n.action-btn.accent {background: var(--accent)}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 3rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n}\n.faq-item {border-left: 3px solid var(--accent);padding-left: 1.5rem;margin-bottom: 2rem}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.5rem;font-family: var(--font-mono)}\n.faq-item p {color: #555;font-size: 0.95rem}\nfooter {padding: 4rem 0;text-align: center;font-family: var(--font-mono);font-size: 0.85rem;color: #666}\n</style><header class=\"hero-band\">\n  <div class=\"container\">\n    <h1>Recursion</h1>\n    <p>工业级网络中继、多协议分发与动态路由配置平台。面向高频数据交互场景设计的稳定连接方案。</p>\n    <div class=\"hero-links\">\n      <a href=\"#plans\">查看套餐</a>\n      <a class=\"outline\" href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n</header>\n\n<main>\n  <section>\n    <div class=\"container\">\n      <h2>系统特性</h2>\n      <div class=\"features-grid\">\n        <div class=\"ticket-card\">\n          <h3>01 / 协议支持 <span>[PROTO]</span></h3>\n          <p>全面兼容现代主流分发协议，支持按需动态切换，保证各类终端设备无缝接入。</p>\n        </div>\n        <div class=\"ticket-card\">\n          <h3>02 / 专线架构 <span>[ROUTE]</span></h3>\n          <p>多地骨干网直连中继，智能避开拥堵路由，提供低延迟、高吞吐的数据传输体验。</p>\n        </div>\n        <div class=\"ticket-card\">\n          <h3>03 / 流量审计 <span>[AUDIT]</span></h3>\n          <p>实时账单与流量消耗统计，精密到单日用量，无隐形扣费，明细清晰可查。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <div class=\"container\">\n      <h2>套餐方案</h2>\n      <div class=\"table-wrapper\">\n        <table class=\"plans-table\">\n          <thead>\n            <tr>\n              <th>服务规格</th>\n              <th>基础版</th>\n              <th>旗舰版 (推荐)</th>\n              <th>团队版</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td><strong>月付价格</strong></td>\n              <td>¥15/月</td>\n              <td class=\"highlight\">¥35/月</td>\n              <td>¥85/月</td>\n            </tr>\n            <tr>\n              <td><strong>年付优惠</strong></td>\n              <td>¥150/年</td>\n              <td class=\"highlight\">¥350/年</td>\n              <td>¥850/年</td>\n            </tr>\n            <tr>\n              <td><strong>每月流量</strong></td>\n              <td>100GB 极速流量</td>\n              <td class=\"highlight\">300GB 极速流量</td>\n              <td>1000GB 极速流量</td>\n            </tr>\n            <tr>\n              <td><strong>并发设备</strong></td>\n              <td>3 台设备同时在线</td>\n              <td class=\"highlight\">5 台设备同时在线</td>\n              <td>20 台设备同时在线</td>\n            </tr>\n            <tr>\n              <td><strong>核心权益</strong></td>\n              <td>\n                解锁基础流媒体<br>\n                普通线路节点池\n              </td>\n              <td class=\"highlight\">\n                全节点原生流媒体解锁<br>\n                IPLC 专线游戏加速优化<br>\n                7x24 优先工单支持\n              </td>\n              <td>\n                VIP 专属高带宽节点<br>\n                支持企业定制路由<br>\n                专属客户经理服务\n              </td>\n            </tr>\n            <tr>\n              <td><strong>操作</strong></td>\n              <td><a href=\"#\" class=\"action-btn\">选用基础版</a></td>\n              <td class=\"highlight\"><a href=\"#\" class=\"action-btn accent\">选用旗舰版</a></td>\n              <td><a href=\"#\" class=\"action-btn\">选用团队版</a></td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <div class=\"container\">\n      <h2>常见问题</h2>\n      <div class=\"faq-grid\">\n        <div>\n          <div class=\"faq-item\">\n            <h3>如何开始使用 Recursion 服务？</h3>\n            <p>注册账户后，在控制台获取专属的订阅链接，并导入至您常用的客户端工具中即可完成基础配置。</p>\n          </div>\n          <div class=\"faq-item\">\n            <h3>支持哪些类型的客户端？</h3>\n            <p>全面支持主流操作系统与开源客户端，包括但不限于 Windows、macOS、Linux、iOS 及 Android 平台。</p>\n          </div>\n        </div>\n        <div>\n          <div class=\"faq-item\">\n            <h3>流量额度是如何计算与重置的？</h3>\n            <p>所有套餐的流量均在每个自然月度账单日自动重置，未使用完的流量不结转至下一周期。</p>\n          </div>\n          <div class=\"faq-item\">\n            <h3>是否支持随时更改套餐配置？</h3>\n            <p>支持。您可以在控制台随时进行套餐的升级或调整，系统将根据剩余时间自动计算差价。</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n</main>\n\n<footer>\n  <div class=\"container\">\n    <p>© Recursion. All rights reserved. 工业级网络分发服务协议。</p>\n  </div>\n</footer>",
+          "hash": "221666a87568e1387ab6f26b311f9125f0cf92c8581e2de0a449f59cf0f31ea6",
+          "seo": {
+            "title": "Recursion - 高性能网络中继与协议分发平台",
+            "keywords": "Recursion, 网络中继, 协议分发, 专线连接, 流量分配",
+            "description": "Recursion 提供工业级网络中继与协议分发服务。精简务实的配置清单、透明的阶梯定价及高可用节点池。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "6455",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rzkjb.cn",
+    "host": "p-62ed7d86fb.rzkjb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d61ab1b7a5d0122e3a26772148f1916b5754b7aa1b10f18b0709a161af23928c",
+    "sitemap.xml": "aca23e6341c5ffed90839c34baee278e3d0eca34889ccaa0affc7b84dd9fc611",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "38b1016f16fe3aeb7d929d88f8d08a521e0857b53719bd28517ad0b3ac8336f2",
+    "robots.txt": "dcdb1faad4a0a1703d37fe8283a9bb663c86ae90a7593442ae9171eca8f265e9",
+    "6111022466e076d8f0accb0ebb396ad5.txt": "bab73fbf963dcfeef3c07e32a645b3bad6c4a40695e3a0889d242bebaf9ffad2"
+  },
+  "revision": "3fb60c59b1325f5ae6531c1b4ec24ccc946bc1ca49e3dff4b21a680d4e366f5d"
+}
